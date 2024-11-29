@@ -29,6 +29,16 @@ Here are the projects I have created so far
     - Skills: NextJS (backend),
               React (frontend),
               TailwindCSS (styling)
+              Deployment: Render
+
+    3. ProBlogger
+    - A platform where users can create their account and create, read, and delete blogs!
+    - Skills: NextJS (backend),
+              React (frontend),
+              TailwindCSS (styling),
+              JsonWebToken (authentication),
+              Bcrypt (password hashing),
+              Deployment: Vercel
 
 ## 💬 Ask Me About
 
